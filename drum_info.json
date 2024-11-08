@@ -1,0 +1,1479 @@
+{
+    "status": "ok",
+    "data": {
+        "createdAtFormatted": "2024-10-16T11:14:13.879Z",
+        "ipCountry": "VN",
+        "username": "tunzankies",
+        "zeroTapWindowFinishAt": 1729086731917,
+        "language_code": "en",
+        "last_name": "ankies",
+        "parentClaimedAmount": "8210.78",
+        "userTelegramId": 5594751878,
+        "gameLevel": 18,
+        "totalCashback": 5072,
+        "balance": "3406.56",
+        "first_name": "Tunz",
+        "drums": [
+            0,
+            1,
+            2
+        ],
+        "refId": 1716917993961504,
+        "currentTapWindowFinishAt": 1731045131917,
+        "ip": "2001:ee0:1a18:801e:5c1e:fc92:7246:c9b2",
+        "spentDrums": 132280,
+        "lastSeenAt": "2024-10-23T08:37:03.924Z",
+        "is_bot": false,
+        "skills": {
+            "WarriorTraining": 20,
+            "ElderWisdom": 20,
+            "StorytellingSkills": 20,
+            "SpiritualPower": 20,
+            "TribalDance": 20,
+            "RhythmSkills": 20,
+            "DrumCraftsmanship": 20,
+            "HealerSkills": 20,
+            "HuntingSkills": 20,
+            "ToolCrafting": 20,
+            "SacredPaintings": 20,
+            "FestivalDecorations": 20,
+            "CeremonialDrums": 20,
+            "MusicalEnsemble": 20,
+            "AnimalCompanions": 20,
+            "CostumeAndAccessories": 20,
+            "SpiritualJourneys": 20,
+            "MusicComposition": 19,
+            "MythicalCreatures": 19,
+            "EnergyManipulation": 18
+        },
+        "farmReward": "697.75",
+        "tasks": {
+            "watch_adsgram": {
+                "priority": 0,
+                "state": "NONE",
+                "title": "Watch Video Ads - Earn DRUM",
+                "reward": 500,
+                "type": "repeatable",
+                "isPromo": true,
+                "taskDetails": {
+                    "action": "watch_ad",
+                    "maxDaily": 2
+                },
+                "watchedCount": 0
+            },
+            "subscribe_telegram": {
+                "priority": 1,
+                "state": "Claimed",
+                "title": "Subscribe Wigwam Annoucements on Telegram",
+                "reward": 3000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "http://t.me/wigwam_announcements"
+                },
+                "startedAt": "2024-10-16T17:12:52.246Z",
+                "checkedAt": "2024-10-24T07:13:15.940Z",
+                "claimedAt": "2024-10-24T07:13:47.723Z"
+            },
+            "follow_on_x": {
+                "priority": 2,
+                "state": "Claimed",
+                "title": "Follow Wigwam X Account",
+                "reward": 3000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://twitter.com/wigwam_app"
+                },
+                "startedAt": "2024-10-16T16:41:57.881Z",
+                "claimedAt": "2024-10-16T16:49:03.773Z"
+            },
+            "join_discord": {
+                "priority": 3,
+                "state": "Claimed",
+                "title": "Join Wigwam Discord",
+                "reward": 1000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://discord.gg/MAG2fnSqSK"
+                },
+                "startedAt": "2024-10-16T17:13:36.036Z",
+                "claimedAt": "2024-10-16T17:26:49.305Z"
+            },
+            "join_reddit": {
+                "priority": 4,
+                "state": "Claimed",
+                "title": "Join Wigwam Reddit",
+                "reward": 1000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://www.reddit.com/r/wigwamapp/"
+                },
+                "startedAt": "2024-10-16T17:13:53.692Z",
+                "claimedAt": "2024-10-16T17:27:51.906Z"
+            },
+            "follow_on_youtube": {
+                "priority": 5,
+                "state": "Claimed",
+                "title": "Follow Wigwam Youtube",
+                "reward": 1000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://www.youtube.com/channel/UCwYWy5DSsgjAxOSKhGrWvvw"
+                },
+                "startedAt": "2024-10-16T17:14:11.195Z",
+                "claimedAt": "2024-10-16T17:28:54.443Z"
+            },
+            "install_wigwam_extension": {
+                "priority": 6,
+                "state": "ReadyToCheck",
+                "title": "Install Wigwam Wallet (Browser Extension Only)",
+                "reward": 10000,
+                "checkDetails": {
+                    "type": "requestToApi"
+                },
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://wigwam.app/install-wigwam-on-mobile",
+                    "tooltipDescription": {
+                        "title": "Register in the Wigwam wallet and connect your telegram account in the Wigwam reward section to complete this task."
+                    }
+                },
+                "startedAt": "2024-10-16T17:14:28.784Z",
+                "checkedAt": "2024-11-04T12:36:09.567Z"
+            },
+            "share_tweet_on_x_2": {
+                "priority": 7,
+                "state": "Claimed",
+                "title": "Share the tweet on X",
+                "reward": 2000,
+                "type": "social",
+                "interval": "1d",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://twitter.com/wigwam_app/status/1810355830325190764"
+                },
+                "startedAt": "2024-10-16T17:15:06.629Z",
+                "claimedAt": "2024-10-16T17:31:33.761Z"
+            },
+            "share_post_on_facebook_2": {
+                "priority": 8,
+                "state": "Claimed",
+                "title": "Share the post on Facebook",
+                "reward": 2000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://www.facebook.com/share/p/JYeAGaLXCu79Har7"
+                },
+                "startedAt": "2024-10-16T17:15:24.207Z",
+                "claimedAt": "2024-10-16T17:32:36.373Z"
+            },
+            "join_cex_io": {
+                "priority": 9,
+                "state": "Claimed",
+                "title": "Join CEX.IO Power Game",
+                "reward": 8000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/cexio_tap_bot"
+                },
+                "startedAt": "2024-10-16T17:15:41.728Z",
+                "checkedAt": "2024-10-16T17:15:50.732Z",
+                "claimedAt": "2024-10-16T17:33:23.311Z"
+            },
+            "share_tweet_on_twitter": {
+                "priority": 10,
+                "state": "Claimed",
+                "title": "Share CEX.IO post on Twitter",
+                "reward": 5000,
+                "type": "social",
+                "interval": "1d",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://x.com/cex_io/status/1798384289056489481"
+                },
+                "startedAt": "2024-10-16T17:15:59.581Z",
+                "claimedAt": "2024-10-16T17:34:57.069Z"
+            },
+            "join_linkedin": {
+                "priority": 11,
+                "state": "Claimed",
+                "title": "Join Wigwam Linkedin",
+                "reward": 1000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://www.linkedin.com/company/wigwamapp/"
+                },
+                "startedAt": "2024-10-16T17:16:17.228Z",
+                "claimedAt": "2024-10-16T17:35:59.898Z"
+            },
+            "join_facebook": {
+                "priority": 12,
+                "state": "Claimed",
+                "title": "Join Wigwam Facebook",
+                "reward": 1000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://www.facebook.com/wigwamapp"
+                },
+                "startedAt": "2024-10-16T17:16:34.756Z",
+                "claimedAt": "2024-10-16T17:37:02.584Z"
+            },
+            "invite_1_friend": {
+                "priority": 13,
+                "state": "Claimed",
+                "title": "Invite 1 Friend",
+                "reward": 5000,
+                "telegramName": "First Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 1,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                },
+                "completedAt": "2024-10-16T14:12:41.504Z",
+                "claimedAt": "2024-10-16T17:37:49.596Z"
+            },
+            "invite_5_friends": {
+                "priority": 14,
+                "state": "Claimed",
+                "title": "Invite 5 Friends",
+                "reward": 15000,
+                "telegramName": "5th Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 5,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                },
+                "completedAt": "2024-10-17T09:28:52.052Z",
+                "claimedAt": "2024-10-17T13:53:58.423Z"
+            },
+            "invite_10_friends": {
+                "priority": 15,
+                "state": "ReadyToClaim",
+                "title": "Invite 10 Friends",
+                "reward": 25000,
+                "telegramName": "10th Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 10,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                },
+                "completedAt": "2024-11-07T17:11:04.109Z"
+            },
+            "invite_20_friends": {
+                "priority": 16,
+                "state": "NONE",
+                "title": "Invite 20 Friends",
+                "reward": 50000,
+                "telegramName": "20th Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 20,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                }
+            },
+            "invite_50_friends": {
+                "priority": 17,
+                "state": "NONE",
+                "title": "Invite 50 Friends",
+                "reward": 200000,
+                "telegramName": "50th Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 50,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                }
+            },
+            "invite_100_friends": {
+                "priority": 18,
+                "state": "NONE",
+                "title": "Invite 100 Friends",
+                "reward": 500000,
+                "telegramName": "100th Friend",
+                "type": "referral",
+                "taskDetails": {
+                    "referralsLimit": 100,
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A"
+                }
+            },
+            "boost_telegram_1": {
+                "priority": 19,
+                "state": "ReadyToCheck",
+                "title": "Boost Wigwam Telegram",
+                "reward": 4000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://t.me/wigwam_announcements?boost"
+                },
+                "startedAt": "2024-10-16T17:42:29.787Z",
+                "checkedAt": "2024-11-04T12:15:52.911Z"
+            },
+            "watch_video_essential_crypto_safety_tips": {
+                "priority": 20,
+                "state": "Claimed",
+                "title": "Watch a quick video for essential crypto safety tips",
+                "reward": 5000,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://youtube.com/shorts/m47LGyd1kmw"
+                },
+                "startedAt": "2024-10-16T16:02:16.780Z",
+                "claimedAt": "2024-10-16T16:08:05.531Z"
+            },
+            "watch_learn_avoid_crypto_scams": {
+                "priority": 21,
+                "state": "Claimed",
+                "title": "Learn to Avoid Crypto Scams – Short Video",
+                "reward": 7500,
+                "type": "social",
+                "taskDetails": {
+                    "action": "redirect",
+                    "redirectUrl": "https://youtu.be/w3mVRhHyzFc?feature=shared"
+                },
+                "startedAt": "2024-10-18T17:05:18.870Z",
+                "claimedAt": "2024-10-25T00:51:48.488Z"
+            }
+        },
+        "updatedAt": 1729672624098,
+        "createdAt": 1729077253879,
+        "drumId": 2,
+        "parentTelegramId": 5064866550,
+        "email": "anhtuandang2605@gmail.com",
+        "farmStartedAt": "2024-11-07T16:10:42.648Z",
+        "availableTaps": 100,
+        "currentTapWindowFinishIn": 9227496,
+        "serverTime": 1731035904421,
+        "totalCachback": "0.00",
+        "tapIntervalMinutes": 1,
+        "tapAttemptsPerInterval": 10,
+        "minRandomReward": 0,
+        "maxRandomReward": 10,
+        "miningEraIntervalInSeconds": 14400,
+        "baseFarmReward": 400,
+        "minRandomFarmReward": 400,
+        "maxRandomFarmReward": 800,
+        "maxChildrenCount": 100,
+        "skillCashbackRate": 0.05,
+        "inviteUrl": "https://t.me/share/url?url=https%3A%2F%2Ft.me%2Fdrumtap_bot%2Fapp%3Fstartapp%3D1716917993961504&text=%0A%F0%9F%8E%89%20Join%20my%20tribe%20and%20let's%20double%20the%20rewards%20and%20fun%20together!%20%F0%9F%8E%89%0A%F0%9F%A5%81%20Play%20your%20sacred%20melody%20on%20the%20drum%2C%20invite%20friends%2C%20tackle%20challenges%2C%20and%20farm%20DRUM%20tokens.%20Let's%20make%20it%20an%20epic%20adventure!%20%F0%9F%8C%9F%0A",
+        "currencyPrecision": 2,
+        "shareDetails": {
+            "url": "https://t.me/drumtap_bot?start=1716917993961504",
+            "text": "https://t.me/drumtap_bot/app?startapp=1716917993961504\n\nDRUM tokens farming major upgrade! Two is better than one! (Join my tribe)[https://t.me/drumtap_bot/app?startapp=1716917993961504], and let's double the fun (and rewards 🤑)! (Wigwam Drum Game)[https://wigwam.app/install-wigwam-on-mobile]."
+        },
+        "displaySkills": {
+            "WarriorTraining": {
+                "id": 1,
+                "name": "Warrior Training",
+                "group": "Personal",
+                "level": 20,
+                "description": "Improve the training and skills of warriors, from basic combat skills to masterful techniques.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "ElderWisdom": {
+                "id": 2,
+                "name": "Elder Wisdom",
+                "group": "Personal",
+                "level": 20,
+                "description": "Increase the wisdom and guidance provided by tribal elders, from basic advice to profound teachings that benefit the entire community.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "StorytellingSkills": {
+                "id": 3,
+                "name": "Storytelling Skills",
+                "group": "Personal",
+                "level": 20,
+                "description": "Improve your ability to tell traditional stories and legends, enhancing the cultural experience.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "SpiritualPower": {
+                "id": 4,
+                "name": "Spiritual Power",
+                "group": "Personal",
+                "level": 20,
+                "description": "Increase the player's spiritual connection and power, represented by aura or spirit animals that grow stronger and more vibrant.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "TribalDance": {
+                "id": 5,
+                "name": "Tribal Dance",
+                "group": "Personal",
+                "level": 20,
+                "description": "Upgrade the associated dance moves, from simple foot taps to elaborate traditional dances.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "RhythmSkills": {
+                "id": 6,
+                "name": "Rhythm Skills",
+                "group": "Personal",
+                "level": 20,
+                "description": "Improve the player's drumming techniques and rhythm, starting from basic beats to complex and sophisticated rhythms.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "DrumCraftsmanship": {
+                "id": 7,
+                "name": "Drum Craftsmanship",
+                "group": "Personal",
+                "level": 20,
+                "description": "Enhance the quality and design of the drum, from basic wooden drums to intricately decorated ceremonial drums.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "HealerSkills": {
+                "id": 8,
+                "name": "Healer Skills",
+                "group": "Personal",
+                "level": 20,
+                "description": "Develop and enhance traditional healing potions and remedies, from basic herbs to powerful elixirs.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "HuntingSkills": {
+                "id": 9,
+                "name": "Hunting Skills",
+                "group": "Personal",
+                "level": 20,
+                "description": "Upgrade hunting techniques, from simple traps to sophisticated strategies and tools.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "ToolCrafting": {
+                "id": 10,
+                "name": "Tool Crafting",
+                "group": "Personal",
+                "level": 20,
+                "description": "Upgrade the crafting of tools and weapons, from basic stone implements to finely crafted metalwork.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "SacredPaintings": {
+                "id": 11,
+                "name": "Sacred Paintings",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Upgrade the artistry of sacred paintings and murals that depict traditional stories and symbols.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "FestivalDecorations": {
+                "id": 12,
+                "name": "Festival Decorations",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Enhance the decorations for festivals and ceremonies, from simple garlands to grand, vibrant setups.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "CeremonialDrums": {
+                "id": 13,
+                "name": "Ceremonial Drums",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Introduce and upgrade special ceremonial drums that have unique designs and sounds.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "MusicalEnsemble": {
+                "id": 14,
+                "name": "Musical Ensemble",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Add and upgrade other musical instruments that accompany the drum, such as flutes, sitars, and tambourines.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "AnimalCompanions": {
+                "id": 15,
+                "name": "Animal Companions",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Introduce and upgrade animal companions that join the drumming sessions, from birds and rabbits to majestic eagles and tigers.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "CostumeAndAccessories": {
+                "id": 16,
+                "name": "Costume & Accessories",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Upgrade the player's attire, from simple clothing to richly decorated traditional costumes with jewelry and accessories.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "SpiritualJourneys": {
+                "id": 17,
+                "name": "Spiritual Journeys",
+                "group": "Ceremonial",
+                "level": 20,
+                "description": "Develop the ability to undertake spiritual journeys, from basic meditations to profound vision quests.",
+                "upgradeCost": 696,
+                "nextLevelUpgradeCost": 764,
+                "bonusFarming": 1.02,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 6.12,
+                "nextSkillRequiredGameLevel": 16
+            },
+            "MusicComposition": {
+                "id": 18,
+                "name": "Music Composition",
+                "group": "Ceremonial",
+                "level": 19,
+                "description": "Upgrade the ability to compose and perform traditional music, from simple melodies to complex compositions.",
+                "upgradeCost": 632,
+                "nextLevelUpgradeCost": 696,
+                "bonusFarming": 0.99,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 5.9399999999999995,
+                "nextSkillRequiredGameLevel": 6
+            },
+            "MythicalCreatures": {
+                "id": 19,
+                "name": "Mythical Creatures",
+                "group": "Ceremonial",
+                "level": 19,
+                "description": "Upgrade interactions with mythical creatures, from simple sightings to forming bonds and gaining their aid.",
+                "upgradeCost": 632,
+                "nextLevelUpgradeCost": 696,
+                "bonusFarming": 0.99,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 5.9399999999999995,
+                "nextSkillRequiredGameLevel": 6
+            },
+            "EnergyManipulation": {
+                "id": 20,
+                "name": "Energy Manipulation",
+                "group": "Ceremonial",
+                "level": 18,
+                "description": "Upgrade the ability to manipulate spiritual energy, from basic control to advanced techniques that can influence the environment.",
+                "upgradeCost": 575,
+                "nextLevelUpgradeCost": 632,
+                "bonusFarming": 0.96,
+                "baseFarming": 400,
+                "extraDuration": 0,
+                "drumsPerDay": 5.76,
+                "nextSkillRequiredGameLevel": 6
+            }
+        },
+        "displayDrums": [
+            {
+                "id": 0,
+                "name": "REGULAR DRUM",
+                "tapRewardMin": 1,
+                "tapRewardMax": 1,
+                "tapRate": 1,
+                "cost": 0,
+                "levelRequired": 1
+            },
+            {
+                "id": 1,
+                "name": "BUFALO DRUM",
+                "tapRewardMin": 1,
+                "tapRewardMax": 3,
+                "tapRate": 2.66,
+                "cost": 2000,
+                "levelRequired": 2
+            },
+            {
+                "id": 2,
+                "name": "BUFALO UPGRADED DRUM",
+                "tapRewardMin": 3,
+                "tapRewardMax": 7,
+                "tapRate": 6.32,
+                "cost": 5000,
+                "levelRequired": 5
+            },
+            {
+                "id": 3,
+                "name": "BUFALO 2 UPGRADED DRUM",
+                "tapRewardMin": 7,
+                "tapRewardMax": 14,
+                "tapRate": 12.72,
+                "cost": 7000,
+                "levelRequired": 15
+            },
+            {
+                "id": 4,
+                "name": "BUFALO 3 UPGRADED DRUM",
+                "tapRewardMin": 14,
+                "tapRewardMax": 20,
+                "tapRate": 18.98,
+                "cost": 10000,
+                "levelRequired": 25
+            },
+            {
+                "id": 5,
+                "name": "WOLF DRUM",
+                "tapRewardMin": 20,
+                "tapRewardMax": 30,
+                "tapRate": 28.3,
+                "cost": 15000,
+                "levelRequired": 35
+            },
+            {
+                "id": 6,
+                "name": "WOLF DRUM UPGRADED",
+                "tapRewardMin": 30,
+                "tapRewardMax": 40,
+                "tapRate": 38.3,
+                "cost": 20000,
+                "levelRequired": 40
+            },
+            {
+                "id": 7,
+                "name": "WOLF 2 DRUM UPGRADED",
+                "tapRewardMin": 50,
+                "tapRewardMax": 70,
+                "tapRate": 66.6,
+                "cost": 25000,
+                "levelRequired": 50
+            },
+            {
+                "id": 8,
+                "name": "SHAMAN DRUM",
+                "tapRewardMin": 70,
+                "tapRewardMax": 80,
+                "tapRate": 78.3,
+                "cost": 30000,
+                "levelRequired": 60
+            },
+            {
+                "id": 9,
+                "name": "SHAMAN DRUM UPGRADED",
+                "tapRewardMin": 80,
+                "tapRewardMax": 90,
+                "tapRate": 88.13,
+                "cost": 40000,
+                "levelRequired": 70
+            },
+            {
+                "id": 10,
+                "name": "SHAMAN 2 DRUM UPGRADED",
+                "tapRewardMin": 100,
+                "tapRewardMax": 100,
+                "tapRate": 100,
+                "cost": 50000,
+                "levelRequired": 80
+            }
+        ],
+        "displayGameLevel": {
+            "level": 18,
+            "name": "Village Percussionist",
+            "group": "Apprentice Level",
+            "maxSkillLevel": 30,
+            "reward": "632"
+        },
+        "farmStats": {
+            "baseFarm": 400,
+            "baseFarmPerDay": 2400,
+            "farmBonus": 297.7500000000004,
+            "bonusFarmPerDay": 1786.5000000000023,
+            "baseFarmDuration": 14400
+        },
+        "displayGameLevels": [
+            {
+                "level": 1,
+                "name": "Drum Apprentice",
+                "group": "Novice Level",
+                "maxSkillLevel": 10,
+                "reward": "0"
+            },
+            {
+                "level": 2,
+                "name": "Rhythm Novice",
+                "group": "Novice Level",
+                "maxSkillLevel": 10,
+                "reward": "125"
+            },
+            {
+                "level": 3,
+                "name": "Beat Beginner",
+                "group": "Novice Level",
+                "maxSkillLevel": 10,
+                "reward": "138"
+            },
+            {
+                "level": 4,
+                "name": "Tribal Drummer",
+                "group": "Novice Level",
+                "maxSkillLevel": 10,
+                "reward": "151"
+            },
+            {
+                "level": 5,
+                "name": "Campfire Drummer",
+                "group": "Novice Level",
+                "maxSkillLevel": 10,
+                "reward": "166"
+            },
+            {
+                "level": 6,
+                "name": "Woodland Percussionist",
+                "group": "Novice Level",
+                "maxSkillLevel": 20,
+                "reward": "183"
+            },
+            {
+                "level": 7,
+                "name": "Young Beater",
+                "group": "Novice Level",
+                "maxSkillLevel": 20,
+                "reward": "201"
+            },
+            {
+                "level": 8,
+                "name": "Rhythm Seeker",
+                "group": "Novice Level",
+                "maxSkillLevel": 20,
+                "reward": "221"
+            },
+            {
+                "level": 9,
+                "name": "Sound Explorer",
+                "group": "Novice Level",
+                "maxSkillLevel": 20,
+                "reward": "244"
+            },
+            {
+                "level": 10,
+                "name": "Beat Keeper",
+                "group": "Novice Level",
+                "maxSkillLevel": 20,
+                "reward": "268"
+            },
+            {
+                "level": 11,
+                "name": "Junior Drummer",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 20,
+                "reward": "295"
+            },
+            {
+                "level": 12,
+                "name": "Rhythm Adept",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 20,
+                "reward": "325"
+            },
+            {
+                "level": 13,
+                "name": "Tribal Cadence",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 20,
+                "reward": "357"
+            },
+            {
+                "level": 14,
+                "name": "Drum Artisan",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 20,
+                "reward": "393"
+            },
+            {
+                "level": 15,
+                "name": "Ritual Beater",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 20,
+                "reward": "432"
+            },
+            {
+                "level": 16,
+                "name": "Beat Crafter",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 30,
+                "reward": "475"
+            },
+            {
+                "level": 17,
+                "name": "Forest Rhythmist",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 30,
+                "reward": "523"
+            },
+            {
+                "level": 18,
+                "name": "Village Percussionist",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 30,
+                "reward": "575"
+            },
+            {
+                "level": 19,
+                "name": "Melody Maker",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 30,
+                "reward": "632"
+            },
+            {
+                "level": 20,
+                "name": "Drum Enthusiast",
+                "group": "Apprentice Level",
+                "maxSkillLevel": 30,
+                "reward": "696"
+            },
+            {
+                "level": 21,
+                "name": "Drum Specialist",
+                "group": "Adept Level",
+                "maxSkillLevel": 30,
+                "reward": "764"
+            },
+            {
+                "level": 22,
+                "name": "Rhythm Artist",
+                "group": "Adept Level",
+                "maxSkillLevel": 30,
+                "reward": "871"
+            },
+            {
+                "level": 23,
+                "name": "Beat Innovator",
+                "group": "Adept Level",
+                "maxSkillLevel": 30,
+                "reward": "993"
+            },
+            {
+                "level": 24,
+                "name": "Tribal Melodist",
+                "group": "Adept Level",
+                "maxSkillLevel": 30,
+                "reward": "1132"
+            },
+            {
+                "level": 25,
+                "name": "Sacred Drummer",
+                "group": "Adept Level",
+                "maxSkillLevel": 30,
+                "reward": "1290"
+            },
+            {
+                "level": 26,
+                "name": "Beat Designer",
+                "group": "Adept Level",
+                "maxSkillLevel": 40,
+                "reward": "1471"
+            },
+            {
+                "level": 27,
+                "name": "Spiritual Percussionist",
+                "group": "Adept Level",
+                "maxSkillLevel": 40,
+                "reward": "1677"
+            },
+            {
+                "level": 28,
+                "name": "Harmony Creator",
+                "group": "Adept Level",
+                "maxSkillLevel": 40,
+                "reward": "1912"
+            },
+            {
+                "level": 29,
+                "name": "Drum Virtuoso",
+                "group": "Adept Level",
+                "maxSkillLevel": 40,
+                "reward": "2179"
+            },
+            {
+                "level": 30,
+                "name": "Rhythm Master",
+                "group": "Adept Level",
+                "maxSkillLevel": 40,
+                "reward": "2484"
+            },
+            {
+                "level": 31,
+                "name": "Drum Maestro",
+                "group": "Expert Level",
+                "maxSkillLevel": 40,
+                "reward": "2834"
+            },
+            {
+                "level": 32,
+                "name": "Tribal Rhythmist",
+                "group": "Expert Level",
+                "maxSkillLevel": 40,
+                "reward": "3231"
+            },
+            {
+                "level": 33,
+                "name": "Beat Conductor",
+                "group": "Expert Level",
+                "maxSkillLevel": 40,
+                "reward": "3683"
+            },
+            {
+                "level": 34,
+                "name": "Ritual Harmonist",
+                "group": "Expert Level",
+                "maxSkillLevel": 40,
+                "reward": "4199"
+            },
+            {
+                "level": 35,
+                "name": "Drum Sage",
+                "group": "Expert Level",
+                "maxSkillLevel": 40,
+                "reward": "4787"
+            },
+            {
+                "level": 36,
+                "name": "Beat Shaman",
+                "group": "Expert Level",
+                "maxSkillLevel": 50,
+                "reward": "5457"
+            },
+            {
+                "level": 37,
+                "name": "Rhythmic Sorcerer",
+                "group": "Expert Level",
+                "maxSkillLevel": 50,
+                "reward": "6221"
+            },
+            {
+                "level": 38,
+                "name": "Tribal Soundsmith",
+                "group": "Expert Level",
+                "maxSkillLevel": 50,
+                "reward": "7091"
+            },
+            {
+                "level": 39,
+                "name": "Melody Shaper",
+                "group": "Expert Level",
+                "maxSkillLevel": 50,
+                "reward": "8084"
+            },
+            {
+                "level": 40,
+                "name": "Drum Prodigy",
+                "group": "Expert Level",
+                "maxSkillLevel": 50,
+                "reward": "9216"
+            },
+            {
+                "level": 41,
+                "name": "Drum Master",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "10507"
+            },
+            {
+                "level": 42,
+                "name": "Tribal Guardian",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "11768"
+            },
+            {
+                "level": 43,
+                "name": "Beat Alchemist",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "13180"
+            },
+            {
+                "level": 44,
+                "name": "Ritual Conductor",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "14762"
+            },
+            {
+                "level": 45,
+                "name": "Drum High Priest",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "16533"
+            },
+            {
+                "level": 46,
+                "name": "Beat Oracle",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "18517"
+            },
+            {
+                "level": 47,
+                "name": "Rhythmic Sage",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "20739"
+            },
+            {
+                "level": 48,
+                "name": "Tribal Maestro",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "23228"
+            },
+            {
+                "level": 49,
+                "name": "Sound Magician",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "26015"
+            },
+            {
+                "level": 50,
+                "name": "Drum Patriarch",
+                "group": "Master Level",
+                "maxSkillLevel": 60,
+                "reward": "29137"
+            },
+            {
+                "level": 51,
+                "name": "Drum Chieftain",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "32632"
+            },
+            {
+                "level": 52,
+                "name": "Rhythm Emperor",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "36548"
+            },
+            {
+                "level": 53,
+                "name": "Beat Monarch",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "40934"
+            },
+            {
+                "level": 54,
+                "name": "Tribal High Lord",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "45846"
+            },
+            {
+                "level": 55,
+                "name": "Sacred Soundkeeper",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "51347"
+            },
+            {
+                "level": 56,
+                "name": "Drum Oracle",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "57509"
+            },
+            {
+                "level": 57,
+                "name": "Beat Sovereign",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "64410"
+            },
+            {
+                "level": 58,
+                "name": "Rhythmic Overlord",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "72139"
+            },
+            {
+                "level": 59,
+                "name": "Tribal Archon",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "80796"
+            },
+            {
+                "level": 60,
+                "name": "Sound Emperor",
+                "group": "Grandmaster Level",
+                "maxSkillLevel": 70,
+                "reward": "90491"
+            },
+            {
+                "level": 61,
+                "name": "Drum Elder",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "101351"
+            },
+            {
+                "level": 62,
+                "name": "Rhythm Sage",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "115337"
+            },
+            {
+                "level": 63,
+                "name": "Beat Seer",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "131254"
+            },
+            {
+                "level": 64,
+                "name": "Tribal Elder",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "149367"
+            },
+            {
+                "level": 65,
+                "name": "Sacred Drumkeeper",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "169980"
+            },
+            {
+                "level": 66,
+                "name": "Beat Patriarch",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "193437"
+            },
+            {
+                "level": 67,
+                "name": "Rhythmic Prophet",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "220131"
+            },
+            {
+                "level": 68,
+                "name": "Tribal Seer",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "250509"
+            },
+            {
+                "level": 69,
+                "name": "Sound Sage",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "285080"
+            },
+            {
+                "level": 70,
+                "name": "Drum Prophet",
+                "group": "Elder Level",
+                "maxSkillLevel": 80,
+                "reward": "324421"
+            },
+            {
+                "level": 71,
+                "name": "Legendary Drummer",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "380386"
+            },
+            {
+                "level": 72,
+                "name": "Rhythm Legend",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "456463"
+            },
+            {
+                "level": 73,
+                "name": "Beat Hero",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "547756"
+            },
+            {
+                "level": 74,
+                "name": "Tribal Legend",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "657307"
+            },
+            {
+                "level": 75,
+                "name": "Sacred Beatmaster",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "788768"
+            },
+            {
+                "level": 76,
+                "name": "Drum Hero",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "946522"
+            },
+            {
+                "level": 77,
+                "name": "Rhythmic Legend",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "1135827"
+            },
+            {
+                "level": 78,
+                "name": "Tribal Hero",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "1362992"
+            },
+            {
+                "level": 79,
+                "name": "Sound Legend",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "1635590"
+            },
+            {
+                "level": 80,
+                "name": "Drum Luminary",
+                "group": "Legend Level",
+                "maxSkillLevel": 90,
+                "reward": "1962708"
+            },
+            {
+                "level": 81,
+                "name": "Epic Drummer",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "2355248"
+            },
+            {
+                "level": 82,
+                "name": "Rhythm Icon",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "2802745"
+            },
+            {
+                "level": 83,
+                "name": "Beat Champion",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "3335267"
+            },
+            {
+                "level": 84,
+                "name": "Tribal Icon",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "3968967"
+            },
+            {
+                "level": 85,
+                "name": "Sacred Beat Champion",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "4723071"
+            },
+            {
+                "level": 86,
+                "name": "Drum Icon",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "5620455"
+            },
+            {
+                "level": 87,
+                "name": "Rhythmic Champion",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "6688341"
+            },
+            {
+                "level": 88,
+                "name": "Tribal Champion",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "7959126"
+            },
+            {
+                "level": 89,
+                "name": "Sound Icon",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "9471360"
+            },
+            {
+                "level": 90,
+                "name": "Drum Paragon",
+                "group": "Epic Level",
+                "maxSkillLevel": 100,
+                "reward": "11270918"
+            },
+            {
+                "level": 91,
+                "name": "Mythic Drummer",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "13098207"
+            },
+            {
+                "level": 92,
+                "name": "Rhythm Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "17027669"
+            },
+            {
+                "level": 93,
+                "name": "Beat Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "22135970"
+            },
+            {
+                "level": 94,
+                "name": "Tribal Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "28776761"
+            },
+            {
+                "level": 95,
+                "name": "Sacred Beat Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "37409789"
+            },
+            {
+                "level": 96,
+                "name": "Drum Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "48632726"
+            },
+            {
+                "level": 97,
+                "name": "Rhythmic Paragon",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "63222543"
+            },
+            {
+                "level": 98,
+                "name": "Tribal Paragon",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "82189306"
+            },
+            {
+                "level": 99,
+                "name": "Sound Myth",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "106846098"
+            },
+            {
+                "level": 100,
+                "name": "Drum Legend",
+                "group": "Mythic Level",
+                "maxSkillLevel": 100,
+                "reward": "138899928"
+            }
+        ]
+    }
+}
